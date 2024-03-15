@@ -1,3 +1,4 @@
+fastAPI
 pydantic
 pickle-mixin
 scikit-learn
