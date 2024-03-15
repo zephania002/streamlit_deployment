@@ -1,6 +1,4 @@
-fastapi
-uvicorn
 pydantic
-pickle5
+pickle-mixin
 scikit-learn
 numpy
