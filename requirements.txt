@@ -3,3 +3,5 @@ pydantic
 pickle-mixin
 scikit-learn
 numpy
+gunicorn
+
